@@ -12,7 +12,7 @@
 **Block Diagram**
 
 
-![](Spectrometer_concept.jpg)
+![](Spectrometer_concept.png)
 
 
 
