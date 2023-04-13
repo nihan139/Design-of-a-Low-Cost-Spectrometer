@@ -9,10 +9,18 @@
   6. Black Paper
   
 
+
 **Block Diagram**
 
 
 ![](Spectrometer_concept.png)
 
 
+
+
+**Spectra**
+
+
+
+![](Spectra.png)
 
