@@ -22,5 +22,5 @@
 
 
 
-![](Spectra.png)
+![](Spectra.jpg)
 
