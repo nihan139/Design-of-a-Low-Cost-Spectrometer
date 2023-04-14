@@ -55,7 +55,7 @@ The intensity of green led was very low which gets reflected in our designed spe
 <br>
 
 <p align="center">
-   <img src="./li.jpg" width="400" height="300"/>
+   <img src="./LI.jpg" width="400" height="300"/>
 </p>
 
 <br> <br>
